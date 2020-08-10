@@ -1,4 +1,3 @@
-import PyInstaller
 import pygame
 import random
 import os
